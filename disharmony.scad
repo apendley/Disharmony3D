@@ -8,6 +8,7 @@
 12/02/2016 - Fixed minor bug 
 28/02/2016 - Added holes ventilation option                    
 09/03/2016 - Added PCB feet support, fixed the shell artefact on export mode. 
+23/05/2023 - Tons of modifications to repurpose design to build a remote control (Aaron Pendley)
 
 */////////////////////////// - Info - //////////////////////////////
 
