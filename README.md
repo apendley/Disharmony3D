@@ -9,6 +9,8 @@ Bill of materials
 
 * FeatherS2 - https://www.adafruit.com/product/4769
 * Electrocookie proto board - https://www.amazon.com/ElectroCookie-Solderable-Breadboard-Electronics-Gold-Plated/dp/B081MSKJJX
+* Short feather female headers - https://www.adafruit.com/product/2940
+* Short feather male headeres - https://www.adafruit.com/product/3002
 * 3M VHB tape - https://www.amazon.com/gp/product/B007Y7H63Q
 * 1200 mAh LiPo battery - https://www.adafruit.com/product/258
 * ANO navigation pad - https://www.adafruit.com/product/5001
