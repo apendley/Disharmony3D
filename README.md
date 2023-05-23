@@ -25,7 +25,7 @@ Bill of materials
 	- https://www.adafruit.com/product/1504	
 	- https://www.adafruit.com/product/1505
 * 16mm LED on/off switch - https://www.adafruit.com/product/1442
-* 4 M2x4mm screws
+* 4 M2x4mm self-tapping screws
 
 Notes
 -
